@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Tugas 2</title>
+</head>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<body bgcolor="">
+    <form>
+        <h1>Pendaftaran Webinar</h1>
+        <h5>
+            <table>
+                <tr>
+                    <td>Nama:</td>
+                    <td><input type="text" name="Nama"></td>
+                </tr>
+                <tr>
+                    <td>NIM:</td>
+                    <td><input type="text" name="NIM"></td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                    <td><input type="text" name="Email"></td>
+                </tr>
+                <tr>
+                    <td>Phone:</td>
+                    <td><input type="text" name="Phone"></td>
+                </tr>
+                <tr>
+                    <td>Alamat:</td>
+                    <td><input type="text" name="Alamat"></td>
+                </tr>
+                <tr>
+                    <td>Jurusan:</td>
+                    <td>
+                        <select>
+                            <option value="Teknik Informatika">Teknik Informatika</option>
+                            <option value="Teknik Informatika">Teknik Elektro</option>
+                            <option value="Matematika">Matematika</option>
+                            <option value="Bahasa Inggris">Argoteknologi</option>
+                            <option value="Bahasa Inggris">Kimia</option>
+                            <option value="Bahasa Inggris">Fisika</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Jenis Kelamin:</td>
+                    <td>
+                        <input type="radio" id="L" name="fav_language" value="Laki-Laki">Laki-Laki
+                        <input type="radio" id="P" name="fav_language" value="Perempuan">Perempuan
+                    </td>
+                </tr>
+
+            </table>
+            <button style="background-color: #4CAF50;" type="submit" value="Kirim" name="Kirim" onclick="kirim()">Kirim</button>
+            <button style="background-color: #df4a4a;" type="reset" value="Batal" name="Batal">Batal</button>
+        </h5>
+    </form>
+
+</body>
+<script>
+    function kirim() {
+        alert("Data berhasil dikirim!");
+    }
+</script>
+</html>

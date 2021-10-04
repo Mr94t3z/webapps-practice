@@ -1,0 +1,24 @@
+body {
+    background-color: cadetblue;
+    font-family: sans-serif;
+}
+button {
+    color: whitesmoke;
+    padding: 5px 32px;
+    border: 1px solid;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=text] {
+    width: 100%;
+    padding: 3px;
+    border: 2px solid #3CBC8D;
+    border-radius: 4px;
+}
+select {
+    width: 100%;
+    padding: 3px;
+    border: 2px solid #3CBC8D;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
