@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convert Angka Jadi Huruf</title>
+</head>
+
+<body>
+    <script>
+        var nilai_angka = prompt("Masukkan Angka (0-100):", 0);
+        var nilai_huruf = "";
+        if (nilai_angka >= 0 && nilai_angka <= 40) {
+            nilai_huruf = "E";
+        } else if (nilai_angka >= 56 && nilai_angka <= 60) {
+            nilai_huruf = "C";
+        } else if (nilai_angka >= 61 && nilai_angka <= 65) {
+            nilai_huruf = "BC";
+        } else if (nilai_angka >= 66 && nilai_angka <= 70) {
+            nilai_huruf = "B";
+        } else if (nilai_angka >= 71 && nilai_angka <= 80) {
+            nilai_huruf = "AB";
+        } else if (nilai_angka >= 81 && nilai_angka <= 100) {
+            nilai_huruf = "A";
+        } else {
+            nilai_huruf = "Silahkan Masukkan Angka 0-100 Saja!";
+        }
+
+        document.write("Nilai Huruf = " + nilai_huruf)
+    </script>
+</body>
+
+</html>

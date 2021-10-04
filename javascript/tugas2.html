@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator JavaScript</title>
+</head>
+    <script language="JavaScript">
+        function tambah(){
+            var val1 = document.kirim. T1. value
+            var val2 = document.kirim. T2. value
+    
+            document.kirim.hasil.value = parseInt(val1) + parseInt(val2)
+        }
+        function kurang(){
+            var val1 = document.kirim. T1. value
+            var val2 = document.kirim. T2. value
+        
+            document.kirim.hasil.value = val1 - val2
+        }
+        function kali(){
+            var val1 = document.kirim. T1. value
+            var val2 = document.kirim. T2. value
+
+            document.kirim.hasil.value = val1 * val2
+        }
+        function bagi(){
+            var val1 = document.kirim. T1. value
+            var val2 = document.kirim. T2. value
+
+            document.kirim.hasil.value = val1 / val2
+        }
+        function mod(){
+            var val1 = document.kirim. T1. value
+            var val2 = document.kirim. T2. value
+
+            document.kirim.hasil.value = val1 % val2
+        }
+    </script>
+<body>
+    <form method="POST" name="kirim">
+        <p>
+            Bil 1:
+            <input style="margin-bottom: 10px;" type="number" name="T1" size="20">
+            <br>
+            Bil 2:
+            <input style="margin-bottom: 10px;" type="number" name="T2" size="20">
+            <br>    
+            Hasil:
+            <input style="margin-bottom: 10px;" type="text" name="hasil" size="20">
+        </p>
+        <p>
+            <input style="margin-right: 10px;" type="button" value="+" name="B1" onclick=tambah()>
+            <input style="margin-right: 10px;" type="button" value="-" name="B2" onclick=kurang()>
+            <input style="margin-right: 10px;" type="button" value="x" name="B3" onclick=kali()>
+            <input style="margin-right: 10px;" type="button" value="/" name="B4" onclick=bagi()>
+            <input style="margin-right: 10px;" type="button" value="%" name="B5" onclick=mod()>
+        </p>
+    </form>
+</body>
+</html>
