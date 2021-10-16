@@ -1,4 +1,4 @@
-# Practice Webapp
+# Practice WebApps
 ```
 it's just practice.
 y'all can clone whatever do u want!
