@@ -8,7 +8,7 @@ y'all can clone whatever do u want!
 
 ![Simple Calculator](simple_calculator.png)
 
-# Layout
+# Layout Preview
 
 <h4>1. home layout</h4>
 
