@@ -9,5 +9,5 @@ it's just practice.
 
 # layout
 
-<h1>Layout Home</h1>
+<h2>Layout Home</h2>
 
