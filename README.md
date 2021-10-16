@@ -10,15 +10,15 @@ y'all can clone whatever do u want!
 
 # Layout Preview
 
-<h4>1. home layout</h4>
+<h4>1. Home Layout</h4>
 
 ![Home Layout](convertncalc/home.png)
 
-<h4>2. convert layout</h4>
+<h4>2. Convert Layout</h4>
 
 ![Convert Layout](convertncalc/convert.png)
 
-<h4>3. calculator layout</h4>
+<h4>3. Calculator Layout</h4>
 
 ![Calculator Layout](convertncalc/calc.png)
 
