@@ -1,15 +1,27 @@
-# practice-webapp
+# Practice Webapp
 ```
 it's just practice.
+y'all can clone whatever do u want!
 ```
 
-# simple-calcucator
+# Simple Calcucator
 
 ![Simple Calculator](simple_calculator.png)
 
-# layout
+# Layout
 
-<h4>layout home</h4>
+<h4>1. home layout</h4>
 
-![Simple Calculator](convertncalc/home.png)
+![Home Layout](convertncalc/home.png)
 
+<h4>2. convert layout</h4>
+
+![Convert Layout](convertncalc/convert.png)
+
+<h4>3. calculator layout</h4>
+
+![Calculator Layout](convertncalc/calc.png)
+
+```
+run!
+```
