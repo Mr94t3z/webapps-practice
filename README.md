@@ -1,4 +1,5 @@
 # Practice WebApps
+
 ```
 it's just practice.
 y'all can clone whatever do u want!
@@ -21,6 +22,7 @@ y'all can clone whatever do u want!
 <h4>3. Calculator Layout</h4>
 
 ![Calculator Layout](convertncalc/calc.png)
+
 
 ```
 run!
