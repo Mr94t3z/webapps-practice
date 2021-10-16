@@ -9,5 +9,7 @@ it's just practice.
 
 # layout
 
-<h2>Layout Home</h2>
+<h4>layout home</h4>
+
+![Simple Calculator](convertncalc/home.png)
 
