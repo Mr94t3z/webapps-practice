@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h4 style="margin-left: 110px; margin-top: 10px; font-family: monospace;">
+        <table>
+            <tr>
+                <td>Nama</td>
+                <td>:</td>
+                <td> Muhamad Taopik </td>
+            </tr>
+            <tr>
+                <td>NIM</td>
+                <td>:</td>
+                <td> 1197050081 </td>
+            </tr>
+            <tr>
+                <td>Kelas</td>
+                <td>:</td>
+                <td> IF C </td>
+            </tr>
+        </table>
+    </h4>
+    <h4 style="margin-left: 120px; margin-top: 15px; font-family: Verdana, Geneva, Tahoma, sans-serif;">
+        <table>
+            <tr>
+                <td>Keterangan :</td>
+                </td>
+            </tr>
+        </table>
+    </h4>
+    <h5 style="margin-left: 120px; font-family: Verdana, Geneva, Tahoma, sans-serif;">
+        <table>
+            <ul>
+                <li>
+                    Fungsi tombol 
+                    <button type="button" class="btn btn-xs btn-danger" disabled="disabled">Batal</button>
+                    untuk me-reset/membatalkan jawaban yang kita input.
+                </li>
+                <li style="margin-top: 10px;">
+                    Fungsi tombol 
+                    <button type="button" class="btn btn-xs btn-success" disabled="disabled">Cek</button>
+                    untuk mengecek apakah jawaban yang kita input benar/salah (Salah = huruf per-kotak akan hilang/terhapus setelah dicek | Benar = huruf per-kotak tidak akan hilang/terhapus setelah dicek)
+                </li>
+            </ul>
+        </table>
+    </h4>
+   <br>
+    <div class="container crosswordDisplay">
+        <div class="row">
+            <!-- Create & Play buttons required for user generated crossword - disabled for Proscribed questions -->
+            <div class="btn btn-default disabled" id="btnCreate">Create</div>
+            <div class="btn btn-default disabled" id="btnPlay">Play</div>
+
+            <div class="btn btn-danger" id="btnReset">Batal</div>
+            <div class="btn btn-success" id="btnCheck">Cek</div>
+        </div>
+
+        <div class="center crossword" id="crossword"></div>
+
+        <div class="btn" id="btnGen">Generate</div>
+
+
+        <div class="col-lg-6 ">
+            <div class="clueBlock" id="cluesAcross">
+                <div class="clueDirection" id="directionAcross">MENDATAR</div>
+
+                <div class="line">
+                    <input class="word" type="text" value="WWW" />
+                    <span class="lineNum"></span>
+                    <input class="clue" value="Singkatan dari World Wide Web (3)" />
+                </div>
+
+                <div class="line">
+                    <input class="word" type="text" value="Website" />
+                    <span class="lineNum"></span>
+                    <input class="clue" value="Sebuah kumpulan halaman yang berisi informasi tertentu (7)" />
+                </div>
+
+                <div class="line">
+                    <input class="word" type="text" value="HTML" />
+                    <span class="lineNum"></span>
+                    <input class="clue" value="Singkatan dari Hypertext Markup Language (4)" />
+                </div>
+
+                <div class="line">
+                    <input class="word" type="text" value="JS" />
+                    <span class="lineNum"></span>
+                    <input class="clue" value="JavaScript atau bisa disingkat menjadi (2)" />
+                </div>
+
+                <div class="line">
+                    <input class="word" type="text" value="Bootstrap" />
+                    <span class="lineNum"></span>
+                    <input class="clue" value="Framework open-source khusus front end (9)" />
+                </div>
+
+                <div class="line">
+                    <input class="word" type="text" value="DNS" />
+                    <span class="lineNum"></span>
+                    <input class="clue" value="Sistem penamaan hirarki dan desentralisasi (3)" />
+                </div>
+               
+
+            </div>
+
+        </div>
+        
+
+        <div class="col-lg-6">
+            <div class="clueBlock" id="cluesDown">
+                <div class="clueDirection" id="directionDown">MENURUN</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="crosswords.js"></script>
+</html>
