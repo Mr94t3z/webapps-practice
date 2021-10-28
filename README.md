@@ -6,11 +6,11 @@ it's just practice.
 y'all can clone whatever do u want!
 ```
 
-# Simple Calcucator
+# Simple Calcucator Without CSS
 
 ![Simple Calculator](simple_calculator.png)
 
-# Layout Preview
+# Layout Preview With Bootstraps
 
 <h4>1. Home Layout</h4>
 
