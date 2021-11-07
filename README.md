@@ -3,9 +3,9 @@
 [![WebApps](https://img.shields.io/badge/Praktikum%20Pengembangan%20Aplikasi%20Web-WebApps%20Practice-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ```
-my name's Muhamad Taopik.
-it's just practice.
-y'all can clone whatever do u want!
+My name's Muhamad Taopik.
+It's just practice.
+Y'all can clone whatever do u want!
 ```
 
 # Simple Calcucator Without CSS
