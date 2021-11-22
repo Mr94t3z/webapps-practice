@@ -1,6 +1,6 @@
 # WebApps Practice
 
-[![WebApps](https://img.shields.io/badge/Praktikum%20Pengembangan%20Aplikasi%20Web-WebApps%20Practice-brightgreen.svg?style=flat)]
+![WebApps](https://img.shields.io/badge/Praktikum%20Pengembangan%20Aplikasi%20Web-WebApps%20Practice-brightgreen.svg?style=flat)
 
 ```
 My name's Muhamad Taopik.
