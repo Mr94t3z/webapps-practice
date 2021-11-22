@@ -2,6 +2,9 @@
 
 ![WebApps](https://img.shields.io/badge/Praktikum%20Pengembangan%20Aplikasi%20Web-WebApps%20Practice-brightgreen.svg?style=flat)
 
+ <a href="https://github.com/badges/shields/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+
 ```
 My name's Muhamad Taopik.
 It's just practice.
