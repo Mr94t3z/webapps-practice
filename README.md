@@ -1,9 +1,7 @@
 # WebApps Practice
 
-![WebApps](https://https://img.shields.io/github/commit-activity/m/badges/shields%20Pengembangan%20Aplikasi%20Web-WebApps%20Practice-brightgreen.svg?style=flat)
+![WebApps](https://img.shields.io/badge/%20Pengembangan%20Aplikasi%20Web-WebApps%20Practice-brightgreen.svg?style=flat)
 
- <a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/100/m/badges/shields" /></a>
 
 ```
 My name's Muhamad Taopik.
@@ -13,13 +11,13 @@ Y'all can clone whatever do u want!
 
 # Simple Calcucator Without CSS
 
-[![Simple_Calculator](https://img.shields.io/badge/Simple%20Calculator-WebApps%20Practice-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+![Simple_Calculator](https://img.shields.io/badge/Simple%20Calculator-WebApps%20Practice-brightgreen.svg?style=flat)
 
 ![Simple Calculator](simple_calculator.png)
 
 # Layout Preview With Bootstraps
 
-[![Bootstraps](https://img.shields.io/badge/Using%20Bootstraps-WebApps%20Practice-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+![Bootstraps](https://img.shields.io/badge/Using%20Bootstraps-WebApps%20Practice-brightgreen.svg?style=flat)
 
 <h4>1. Home Layout</h4>
 
@@ -35,11 +33,11 @@ Y'all can clone whatever do u want!
 
 # PHP Programming 
 
-[![PHP_Programming](https://img.shields.io/badge/PHP%20Programming-WebApps%20Practice-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+![PHP_Programming](https://img.shields.io/badge/PHP%20Programming-WebApps%20Practice-brightgreen.svg?style=flat)
 
 ## PHP Practice
 
-[![PHP_Practice](https://img.shields.io/badge/PHP%20Practice-WebApps%20Practice-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+![PHP_Practice](https://img.shields.io/badge/PHP%20Practice-WebApps%20Practice-brightgreen.svg?style=flat)
 
 <h4>1. Practice 1</h4>
 
@@ -59,7 +57,7 @@ Y'all can clone whatever do u want!
 
 ## PHP Task
 
-[![PHP_Task](https://img.shields.io/badge/PHP%20Task-WebApps%20Practice-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+![PHP_Task](https://img.shields.io/badge/PHP%20Task-WebApps%20Practice-brightgreen.svg?style=flat)
 
 <h4>1. Task 1</h4>
 
