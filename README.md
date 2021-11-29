@@ -8,6 +8,11 @@ My name's Muhamad Taopik.
 It's just practice.
 Y'all can clone whatever do u want!
 ```
+<p align='center'>
+ <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr94t3z&show_icons=true&count_private=true&theme=dark" width="350">
+ </a>
+</p>
 
 # Simple Calcucator Without CSS
 
