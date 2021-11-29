@@ -32,7 +32,11 @@ My name's *Muhamad Taopik*, y'all can find my `social media` here:
 
 ![Simple_Calculator](https://img.shields.io/badge/Simple%20Calculator-WebApps%20Practice-brightgreen.svg?style=flat)
 
-![Simple Calculator](simple_calculator.png)
+tampilan `simple calculator` tanpa `css`.
+
+<p align="center">
+  <img src="simple_calculator.png" width="350" alt="accessibility text">
+</p>
 
 # Layout Preview With Bootstraps
 
