@@ -39,7 +39,7 @@
         echo "<td>" . $row['t_mandiri'] . "</td>";
         echo "<td>" . $row['uts'] . "</td>";
         echo "<td>" . $row['uas'] . "</td>";
-        echo "<td>" . $row['nilai_akhir'] . "</td>";
+        echo "<td>" . ($row['t_terstruktur']/5) + ($row['t_mandiri']/5) + ($row['uts']/5) + ($row['uas']*2/5) . "</td>";
         echo "<td>" . $row['action'] . "<button onclick=\"location.href='update.php?nim=$row[nim]'\">update nilai</button>" . "</td>";
 
         echo "</tr>";
