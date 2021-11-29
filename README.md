@@ -2,7 +2,7 @@
 
 ![WebApps](https://img.shields.io/badge/%20Pengembangan%20Aplikasi%20Web-WebApps%20Practice-brightgreen.svg?style=flat)
 
-my name is `Muhamad Taopik`, y'all can find my `social media` here:
+my name's `Muhamad Taopik`, y'all can find my `social media` here:
  
 <p align='center'>
  
