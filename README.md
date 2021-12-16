@@ -18,7 +18,9 @@ My name's *Muhamad Taopik*, y'all can find my `social media` here:
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>&nbsp;&nbsp;
  
- <img src="https://img.shields.io/twitter/follow/mr94t3z?color=1DA1F2&logo=twitter&style=for-the-badge" />
+ <a href="https://twitter.com/mr94t3z">
+  <img src="https://img.shields.io/twitter/follow/mr94t3z?color=1DA1F2&logo=twitter&style=for-the-badge" />
+ </a>&nbsp;&nbsp;
   
 </p>
 
